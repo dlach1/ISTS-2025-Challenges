@@ -1,0 +1,3 @@
+Our intelligence found a Max10-Lite FPGA that was used for developing CCTV cameras hardware that the bank uses.
+In order to do that though, we need to figure out what pin needs analyzing. 
+I know it uses some sort of rising-edge triggered logic, find the pin that will trigger that logic.

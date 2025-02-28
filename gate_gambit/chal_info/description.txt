@@ -1,0 +1,2 @@
+Our intelligence gathered a Max10 FPGA that was used in developing gate operation controls.
+We uncovered a logic diagram, maybe you can use it to take control of the gate.

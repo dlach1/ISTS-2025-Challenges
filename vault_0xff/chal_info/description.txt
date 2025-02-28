@@ -1,0 +1,5 @@
+Our intelligence collected an Arty S7 FPGA that was used for safe development. 
+We think you may be able to practice breaking in, the only issue is the pin.
+We were told you already have it?
+
+The flag will need to be wrapped in ISTS{}

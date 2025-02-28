@@ -1,0 +1,1 @@
+We have been informed that there is a rogue access point in the competition room labeled TP-Link_0E18 where a raspberry pi is broadcasting a secret message. We were able to perform a deauthentication attack on the network and we captured the 4-way handshake. Get onto the network and find out what is being transmitted.
