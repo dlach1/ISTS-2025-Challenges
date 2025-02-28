@@ -7,6 +7,7 @@ Aircrack-ng is a suite of WiFi testing tools, one of which being the self-titled
 `sudo aircrack-ng -w <wordlist> <capture>`
 
 The standard rockyou.txt wordlist will suffice and the capture is the one we are given. The output for aircrack-ng after about 2 minutes of searching will look something like this:
+
 ![alt text](aircrack.png)
 
 The cracked network password is `sinceridad` and can be used to either join the network or decrypt the network traffic in the capture.
